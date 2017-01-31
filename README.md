@@ -1,1 +1,1 @@
-# royalIndiaclone
+This is a clone / updated version of the Royal India website. The site is educational purposes only. This site was built using JavaScript, React.  If you want to get really good indian food while in bountiful I suggest you hit them up cause it's awesome. Enjoy!
