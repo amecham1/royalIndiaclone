@@ -1,0 +1,7 @@
+@mixin borders($line-color){
+  border-width: 2px;
+  border-style: solid;
+  border-color: $line-color;
+}
+
+$line-color: #D64802;
